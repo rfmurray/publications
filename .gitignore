@@ -1,0 +1,13 @@
+# macos
+.DS_Store
+
+# latex
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+
+# files and folders with hyphen at end of name
+*-
+*-.[^.]*
