@@ -1,0 +1,6 @@
+void glow diffuseglow
+0 0 4 832.000000 832.000000 832.000000 0.000000
+
+diffuseglow source diffusesource
+0 0 4 0.000000 0.000000 1.000000 320.000000
+
